@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DANGPT/static/css/main.4fb9fcba.css",
-    "main.js": "/DANGPT/static/js/main.9e6fadf1.js",
+    "main.js": "/DANGPT/static/js/main.ef035316.js",
     "index.html": "/DANGPT/index.html",
     "main.4fb9fcba.css.map": "/DANGPT/static/css/main.4fb9fcba.css.map",
-    "main.9e6fadf1.js.map": "/DANGPT/static/js/main.9e6fadf1.js.map"
+    "main.ef035316.js.map": "/DANGPT/static/js/main.ef035316.js.map"
   },
   "entrypoints": [
     "static/css/main.4fb9fcba.css",
-    "static/js/main.9e6fadf1.js"
+    "static/js/main.ef035316.js"
   ]
 }
