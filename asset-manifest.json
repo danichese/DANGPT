@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DANGPT/static/css/main.5b803637.css",
+    "main.js": "/DANGPT/static/js/main.7b4a9460.js",
+    "index.html": "/DANGPT/index.html",
+    "main.5b803637.css.map": "/DANGPT/static/css/main.5b803637.css.map",
+    "main.7b4a9460.js.map": "/DANGPT/static/js/main.7b4a9460.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b803637.css",
+    "static/js/main.7b4a9460.js"
+  ]
+}
